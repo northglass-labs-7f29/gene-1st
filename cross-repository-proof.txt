@@ -1,0 +1,2 @@
+inert-marker: 190a3182-14a5-41d8-a9c5-9a8cc577d941
+vigilant-mode-marker: 2026-09-07-c0rv4x22
